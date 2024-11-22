@@ -1,2 +1,2 @@
 # demo-repo
-This is my first giot repo
+This is my first git repo
